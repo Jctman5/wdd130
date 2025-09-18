@@ -4,7 +4,7 @@ main {
 aside {
   width: 20rem;
   margin: 1rem;
-  border: 1px solid rgb(0 0 0 / 0.2); /* 1️⃣ */
+  border: 1px solid rgb(0 0 0 / 0.2);
   padding: 1rem;
   backround-color: #eee;
   color: #333;
@@ -24,3 +24,4 @@ footer {
   margin-top: 15px;
   border-top: 1px solid #000;
   text-allign: center;
+
